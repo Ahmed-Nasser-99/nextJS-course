@@ -1,0 +1,19 @@
+.detail h1 {
+  color: white;
+  font-size: 40px;
+  margin-left: 10px;
+}
+
+.detail address {
+  color: #777;
+}
+
+.detail img {
+  border-radius: 1em;
+  width: 100%;
+}
+
+.detail p {
+  font-size: 20px;
+  text-align: center;
+}
