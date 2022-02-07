@@ -6,6 +6,7 @@ import Meetuplist from "../components/meetups/MeetupList";
 export default function Home(props) {
   return (
     <Fragment>
+      <p>Hi There Just Testing someting</p>
       <Head>
         <title>Meetups</title>
         <meta name="description" content="Meetups website to add your meetup" />
